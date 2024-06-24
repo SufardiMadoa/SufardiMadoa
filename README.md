@@ -70,24 +70,6 @@
 
 </p>
 
-<br>
-<br>
-
------
-
-<br>
-
-
-
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Ayo Terhubung bersama saya..</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -104,9 +86,7 @@
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
+
 </li>
 
 <br>
@@ -128,7 +108,13 @@
 
 <div align='center'>
 
-
+### Github Statistic
+<p align="left">
+<a href="https://github.com/SufardiMadoa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SufardiMadoa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SufardiMadoa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 </div>
 <br>
