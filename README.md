@@ -109,10 +109,10 @@
 <div align='center'>
 
 ### Github Statistic
+### Github Statistic
 <p align="left">
 <a href="https://github.com/SufardiMadoa">
-	 <img height="180em" ![Sufardi Madoa Stats] src="https://github-readme-stats.vercel.app/api?username=SufardiMadoa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/
- 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SufardiMadoa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SufardiMadoa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
