@@ -19,7 +19,7 @@
 - A passionate Self-taught Front-end developer
 - Asistant Lucturer for java programming
 - Currently learning Web Development by Self
-- Personal website [link](https://www.sufardimadoa.vercel.app)
+- Personal website [link](https://sufardimadoa.vercel.app)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/sufardimadoa)
 
 <br><br>
