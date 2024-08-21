@@ -5,7 +5,9 @@
 </p>
 
 <div align="center">
-A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. Currently honing skills in Web Development through self-study. Open to internship or job opportunities. Explore my personal website [link](https://sufardimadoa.vercel.app) and view my [resume](https://read.cv/sufardimadoa).
+  
+A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. Currently honing skills in Web Development through self-study. Open to internship or job opportunities. Explore my <a href="https://sufardimadoa.vercel.app"> Link</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a>
+
  
 
  
@@ -68,7 +70,7 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 
 ### Sufardi Madoa Statistic Activity
 
-<p align="left">
+<p align="between">
 <a href="https://github.com/SufardiMadoa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SufardiMadoa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SufardiMadoa&layout=compact&langs_count=8&theme=algolia"/>
