@@ -19,7 +19,6 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br align="center">
 <div align="center">
 
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
@@ -37,15 +36,15 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="express"></a>
 </div>
-<br />
+
  
 </div>
 
 
 
 
-## <b> Ayo Terhubung bersama saya..</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+ <b> Ayo Terhubung bersama saya..</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
 <div align='left'>
 
 <ul>
@@ -56,13 +55,11 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 </a>
 </li>
 
-<br>
 
 	
 </ul>
 </div>
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
