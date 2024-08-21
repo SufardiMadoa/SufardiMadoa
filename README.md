@@ -6,7 +6,7 @@
 
 <div align="center">
   
-A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. Currently honing skills in Web Development through self-study. Open to internship or job opportunities. Explore my <a href="https://sufardimadoa.vercel.app"> Link</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a>
+A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. Currently honing skills in Web Development through self-study. Open to internship or job opportunities. Explore my <a href="https://sufardimadoa.vercel.app"> Personal Website</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a>
 
  
 
