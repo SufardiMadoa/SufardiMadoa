@@ -6,7 +6,12 @@
 
 <div align="center">
   
-A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. Currently honing skills in Web Development through self-study. Open to internship or job opportunities. Explore my <a href="https://sufardimadoa.vercel.app"> Personal Website</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a>
+A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. Currently honing skills in Web Development through self-study. Open to internship or job opportunities. Explore my <a href="https://sufardimadoa.vercel.app"> Personal Website</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a> 
+<div align="center">
+<a href="https://www.linkedin.com/in/sufardi-madoa-116a56295" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</div>
 
  
 
@@ -17,9 +22,10 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br/>
+<br/>
 
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
@@ -45,20 +51,6 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
  
 </div>
 
-
-
-
- <b> Ayo Terhubung bersama saya..</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/sufardi-madoa-116a56295" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  sufardi&madoa-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
 
 
 	
