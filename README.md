@@ -26,6 +26,7 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
 <a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></a>
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind"></a>
+<a margin="10" href="https://www.php.net" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" alt="PHP"></a>
 <br />
 <br />
 <a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui"></a>
@@ -37,7 +38,7 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="express"></a>
 <a margin="10" href="https://java.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java"></a>
 <a margin="10" href="https://codeigniter.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=i18Aj6YAMGuM&format=png&color=000000" alt="CodeIgniter"></a>
-<a margin="10" href="https://laravel.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" alt="Laravel"></a>
+<a margin="10" href="https://laravel.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/FF0000/64/laravel.png" alt="Laravel"></a>
 
 </div>
 
