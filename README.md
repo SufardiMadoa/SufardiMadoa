@@ -76,9 +76,13 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 
 </div>
 <br>
-<br>
-<br>
-<br>
+<br />
+
+![Sufardi Streak](https://github-readme-streak-stats.herokuapp.com/?user=SufardiMadoa&theme=vue-dark&hide_border=true)
+<br />
+![Sufardi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SufardiMadoa&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<br />
 
 ---
 
