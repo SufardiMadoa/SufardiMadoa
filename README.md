@@ -35,6 +35,10 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="express"></a>
+<a margin="10" href="https://java.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java"></a>
+<a margin="10" href="https://codeigniter.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=i18Aj6YAMGuM&format=png&color=000000" alt="CodeIgniter"></a>
+<a margin="10" href="https://laravel.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000" alt="Laravel"></a>
+
 </div>
 
  
