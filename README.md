@@ -67,12 +67,16 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 
 ### Sufardi Madoa Statistic Activity
 
-</div>
-<div align="center">
+
+
+
 ![Sufardi Streak](https://github-readme-streak-stats.herokuapp.com/?user=SufardiMadoa&theme=algolia&hide_border=true)
-<br />
+
 ![Sufardi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SufardiMadoa&theme=algolia&show_icons=true&hide_border=true&layout=compact)
-</div>
+
 <br />
+
+</div>
+
 
 ---
