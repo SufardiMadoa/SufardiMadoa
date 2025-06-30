@@ -1,76 +1,146 @@
-<h1 align="center"><b>Hi , I'm Sufardi Madoa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AssalamuAlaikum+Warahmatullah..&hearts;++;merupakan-seorang+Front-End+Developer,;Computer+Science+Student,;Developer+Newbie,;Aktif+Belajar/Research,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+# 🚀 Sufardi Madoa | Full-Stack Developer
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=80&lines=AssalamuAlaikum+%F0%9F%91%8B;Front-End+Developer+%F0%9F%92%BB;Computer+Science+Student+%F0%9F%8E%93;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/SufardiMadoa/SufardiMadoa/blob/main/assets/coding.gif?raw=true" alt="Coding" width="400"/>
+</div>
+
+---
+
+## 🌟 About Me
+
+> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+```javascript
+const sufardi = {
+  name: "Sufardi Madoa",
+  role: "Full-Stack Developer & Assistant Lecturer",
+  location: "Indonesia 🇮🇩",
+  education: "Computer Science Student",
+  passion: ["Web Development", "Teaching", "Learning New Tech"],
+  currentFocus: "Building amazing web experiences",
+  availableFor: "Internship & Job Opportunities",
+  motto: "Never stop learning! 🚀"
+};
+```
 
 <div align="center">
   
-A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. <br> Currently honing skills in Web Development through self-study. Open to internship or job opportunities. <br> Explore my <a href="https://sufardimadoa.vercel.app"> Personal Website</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a> 
-<div align="center">
-<a href="https://www.linkedin.com/in/sufardi-madoa-116a56295" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</div>
-
- 
-
- 
-</div>
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br/>
-<br/>
-
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/css3.png" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"></a>
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap"></a>
-<a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind"></a>
-<a margin="10" href="https://www.php.net" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000" alt="PHP"></a>
-<br />
-<br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/material-ui.png" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/figma.png" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="next js"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs"></a>
-<a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/color/48/000000/express.png" alt="express"></a>
-<a margin="10" href="https://java.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java"></a>
-<a margin="10" href="https://codeigniter.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/?size=100&id=i18Aj6YAMGuM&format=png&color=000000" alt="CodeIgniter"></a>
-<a margin="10" href="https://laravel.com" target="_blank"><img margin="10px" height="40" src="https://img.icons8.com/FF0000/64/laravel.png" alt="Laravel"></a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sufardimadoa.vercel.app)
+[![Resume](https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://read.cv/sufardimadoa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufardi-madoa-116a56295)
 
 </div>
-
- 
-</div>
-
-
-
-	
-</ul>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<div align='center'>
-
-### Sufardi Madoa Statistic Activity
-
-
-![Sufardi Streak](https://github-readme-streak-stats.herokuapp.com/?user=SufardiMadoa&theme=algolia&hide_border=true)
-
-![Sufardi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SufardiMadoa&theme=algolia&show_icons=true&hide_border=true&layout=compact)
-
-
-</div>
-
 
 ---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Magic
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🎨 Styling & Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### ⚙️ Backend Power
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+### 🗄️ Database & Others
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SufardiMadoa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufardiMadoa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SufardiMadoa&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF"/>
+</div>
+
+---
+
+## 🎯 Current Focus
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Learning] --> B[💻 Building]
+    B --> C[🚀 Deploying]
+    C --> D[📈 Growing]
+    D --> A
+    
+    style A fill:#00D9FF,stroke:#333,stroke-width:2px,color:#000
+    style B fill:#FF6B6B,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#000
+    style D fill:#45B7D1,stroke:#333,stroke-width:2px,color:#fff
+```
+
+</div>
+
+- 🔥 **Mastering**: React.js & Next.js ecosystem
+- 🌱 **Currently Learning**: Advanced Node.js & System Design
+- 🎯 **Goal 2024**: Land a great developer role & contribute to open source
+- 💡 **Teaching**: Java programming to fellow students
+
+---
+
+## 🏆 Achievements & Highlights
+
+<div align="center">
+
+| 🎓 **Academic** | 💼 **Professional** | 🌟 **Personal** |
+|:---:|:---:|:---:|
+| Computer Science Student | Assistant Lecturer | Self-taught Developer |
+| Java Programming Tutor | Web Development Focus | Continuous Learner |
+| Active in Research | Open for Opportunities | Tech Enthusiast |
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  
+**"Great things in business are never done by one person; they're done by a team of people."**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sufardi-madoa-116a56295)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sufardimadoa.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://read.cv/sufardimadoa)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=80&descAlign=50"/>
+</div>
+
+<div align="center">
+  <sub>Built with ❤️ by Sufardi Madoa</sub>
+</div>
